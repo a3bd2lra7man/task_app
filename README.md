@@ -28,7 +28,7 @@ This is The Tasks App Assessment Repository.
 
 <br>
 
-![Alt Text](https://raw.githubusercontent.com/a3bd2lra7man/sadad_flutter_sdk/main/ezgif.com-optimize.gif)
+![Alt Text](https://raw.githubusercontent.com/a3bd2lra7man/task_app/blob/main/task_app.gif)
 
 <br>
 
