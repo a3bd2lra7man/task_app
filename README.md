@@ -28,7 +28,7 @@ This is The Tasks App Assessment Repository.
 
 <br>
 
-![Alt Text](https://raw.githubusercontent.com/a3bd2lra7man/task_app/blob/main/task_app.gif)
+![Alt Text](https://raw.githubusercontent.com/a3bd2lra7man/task_app/main/task_app.gif)
 
 <br>
 
