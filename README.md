@@ -98,8 +98,12 @@ then follow these steps:
 
    ```bash
    flutter build apk --release
+   ```
+
+   ```bash
    cd build/app/outputs/flutter-apk/
    ```
+
 
 Inside the flutter-apk folder, you will find the app-release.apk file.  
 This file is the executable APK that can be installed on Android devices.  
