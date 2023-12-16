@@ -65,13 +65,13 @@ then follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone TODO
+   git clone https://github.com/a3bd2lra7man/task_app
    ```  
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd TODD
+   cd task_app
    ```  
 
 
