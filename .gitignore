@@ -71,7 +71,6 @@ app.*.map.json
 **/ios/**/DerivedData/
 **/ios/**/Podfile.lock
 **/ios/Runner.xcworkspace/
-**/ios/Podfile
 **/ios/Flutter/App.framework/
 **/ios/Flutter/Flutter.framework/
 **/ios/Flutter/Generated.xcconfig
